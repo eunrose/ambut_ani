@@ -3,7 +3,6 @@ import 'dart:io';
 import 'dart:ui' as size;
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
-
 import 'package:image_picker/image_picker.dart';
 import 'package:intl/intl.dart';
 import '../constant/add_color.dart';

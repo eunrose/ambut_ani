@@ -3,10 +3,8 @@ import 'package:activity_1/screen/dashboard.dart';
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
 import 'package:path_provider/path_provider.dart';
-
 import 'constant/add_color.dart';
 import 'constant/add_text.dart';
-
 
 
 void main() async {

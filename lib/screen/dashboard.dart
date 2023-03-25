@@ -6,7 +6,6 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:hive/hive.dart';
 import 'package:intl/intl.dart';
 import 'package:sticky_headers/sticky_headers/widget.dart';
-
 import '../constant/add_color.dart';
 import '../constant/add_text.dart';
 import 'add_client.dart';

@@ -11,6 +11,7 @@ class AppColors {
   static const Color redColor = Color(0xFF363636);
   static const Color blackColor = Color(0xFF363636);
 
+
   static const MaterialColor primaryColor = MaterialColor(0xFF6C63FF, {
     50: Color(0xFFE1E1FF),
     100: Color(0xFFBDBDFF),

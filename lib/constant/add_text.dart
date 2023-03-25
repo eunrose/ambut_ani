@@ -26,3 +26,4 @@ class AppText {
   static const String clientEditedText = "Client Edited";
   static const String clientDeletedText = "Client Deleted";
 }
+
